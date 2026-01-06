@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='E:\\xdgs\\data\\1125_frames', model_path='./output/371bd968-2', images='images', resolution=-1, white_background=False, data_device='cuda', eval=False)
